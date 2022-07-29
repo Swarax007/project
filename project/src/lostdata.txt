@@ -1,0 +1,1 @@
+<div className="Picsi"><Pics></Pics></div>

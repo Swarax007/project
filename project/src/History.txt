@@ -1,0 +1,6 @@
+<Textform></Textform>
+<h1>hola boy</h1>
+<button>convert </button>
+<Footer info="james bond"/>
+return <ImageSlider slides={SliderData} />;
+<Middleware></Middleware>
