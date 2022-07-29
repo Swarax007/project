@@ -1,0 +1,1 @@
+props : the properties which can be changed at time of creating new projects 
