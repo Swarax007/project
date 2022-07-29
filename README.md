@@ -10,8 +10,8 @@ npx create-react-app project
 cd project
 
 #Command for installing packages:
-npm install package_name
-or to npm install package.json(to install all pacakges)
+npm install package_name 
+npm install package.json(to install all pacakges)
 
 #List of packages for front-end:
 npm i axios
