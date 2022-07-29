@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff21350a.css",
+    "main.js": "/static/js/main.6bff194b.js",
+    "static/js/787.8a4ae154.chunk.js": "/static/js/787.8a4ae154.chunk.js",
+    "static/media/PPE kits.jpg": "/static/media/PPE kits.9ad7a06f2da8c4076375.jpg",
+    "static/media/Tablets.jpg": "/static/media/Tablets.4316feb4b2f5350c0800.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.ff21350a.css.map": "/static/css/main.ff21350a.css.map",
+    "main.6bff194b.js.map": "/static/js/main.6bff194b.js.map",
+    "787.8a4ae154.chunk.js.map": "/static/js/787.8a4ae154.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff21350a.css",
+    "static/js/main.6bff194b.js"
+  ]
+}
