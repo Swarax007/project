@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Merriweather:ital@1&display=swap");
+
+
+#register{
+  max-width: 500px;
+  min-width: 300px;
+  width: 30%;
+  height:520px;
+  margin: 40px auto;
+  background-color:black;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+body{
+  background: rgb(34,193,195);
+  background: linear-gradient(135deg,pink 0%,     rgba(253,187,45,1) 100%);
+  height: 80%;
+  background-size:auto;
+}
+.row{
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  padding-left: 3rem;
+  
+}
+
+.row input{
+  width: 80%;
+  box-sizing: border-box;
+	border: none;
+  font-size: 1.3rem;
+  padding-left: 2.2rem;
+  padding-bottom: 0.6rem;
+  box-shadow: inset 0px -3px 0px 0px rgba(187,187,187,0.2);
+  transition: box-shadow 0.6s ease-in;
+}
+
+.row input:focus{
+   box-shadow: inset 0px -3px 0px 0px rgba(34,193,195,0.7);
+   outline: none;
+}
+
+.row input::-webkit-input-placeholder{
+  opacity: 1;
+  transition: opacity 0.25s ease-out;
+}
+
+.row input:hover::-webkit-input-placeholder,
+.row input:focus::-webkit-input-placeholder{
+  opacity: 0;
+}
+
+.row label{
+  align-self: start;
+  padding-left: 1rem;
+  padding-bottom: 0.5rem;
+  color: rgba(187,187,187,0.9);
+}
+
+.button{
+  border-radius: 5px;
+  width: 60%;
+  height: 60px;
+  font-size: 1.3rem;
+  /* font-weight: 700; */
+  /* background: rgb(34,193,195); */
+  background: linear-gradient(135deg,pink 0%,     rgba(253,187,45,1) 100%);
+  border: 40px;
+  margin-top:40px;
+  padding-left: 60px;
+  margin-right: 90px;
+  /* cursor: pointer; */
+  transition: opacity 0.25s ease-out;
+}
+.button input{
+  background: linear-gradient(135deg,pink 0%,     rgba(253,187,45,1) 100%);
+  font-size: 22px;
+}
+.button:hover{
+  opacity: 0.8;
+}
+#headerTitle{
+  text-align: center;
+  font-family: 'open sans', sans-serif;
+  padding: 1.2rem 0;
+  padding-right: 40px;
+  margin: 0;
+  font-size: 2rem;
+  color: azure;
+  background:-webkit-linear-gradient(pink,orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.button{
+  padding-top: 1rem;
+  padding-bottom: 1.2rem;
+  padding-left: 4rem;
+  color:black;
+  text-align: center;
+  width: 80%;
+  font-size: large;
+  /* text-align: center; */
+  border-radius: 10px;
+}
+.left{
+  margin-top: 10px;
+  font-size: large;
+  background:-webkit-linear-gradient(pink,orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

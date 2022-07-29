@@ -1,0 +1,31 @@
+.our_aim_body{
+    background: url('images/doctors-team.jpg');
+     background-repeat: no-repeat;
+     background-size:contain;
+     height: 430px;
+}
+
+.title1{
+
+    font-size: 4rem;
+    color:black;
+    
+}
+
+.our_aim{
+    color: black;
+    background-color:rgb(187, 185, 185);
+    opacity: 60%;
+    
+    margin-left: 80px;
+   
+    width: 1200px;
+    text-align: center;
+    border-radius: 30px;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    background-position-x: left;
+    font-family:'Baloo Bhaijaan 2', cursive;
+    font-size: 1.2rem;
+    box-sizing: content-box;
+}
