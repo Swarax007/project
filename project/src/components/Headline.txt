@@ -1,0 +1,20 @@
+import Typical from 'react-typical'
+ 
+ 
+ 
+ 
+ <p>I am 
+          <Typical
+          loop={Infinity}
+          wrapper="b"
+          steps={[
+              'make a diferrence',
+              3000,
+              'bring a change',
+              3000,
+              'practise philanthropy',
+              3000
+
+          ]}
+          />
+          </p>

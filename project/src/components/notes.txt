@@ -1,0 +1,15 @@
+alt+z -> toogle wrap
+
+rfc - for react function component
+1.props - are simply the properties which we could change every time we create website 
+2.write {props.name_of_prop} instead of writing text inside div tags
+
+1.useState is used to add our info and update it accordingly
+2.This is way to write -> const[text,setText] = useState('enter text');
+3.now above 'enter text' in useState is default text .
+4.if we need to channge our inside content just write -> setText='your info what you want to write' ie use variable setText and update accordingly.
+5. inplace of setText we can  use any variable name 
+
+
+# {text.length} tells about the length of charecters
+# {text.split} tells about number of words 

@@ -1,0 +1,32 @@
+import React,{useState} from 'react'
+//import './Pics.css'
+
+export default function Pics() {
+    return (
+        <>
+        <div className='card' id='c1'>
+            <img src={require("./PPE kits.jpg")} alt="" height="300px" width="200px"/>
+            <h2>PPE kits</h2>
+            
+        </div>
+        <div className='card' id='c2'>
+        <img src={require("./Tablets.jpg")} alt="" height="300px" width="200px" />
+        <h2>Paracetemol Tablets</h2>
+        
+    </div>
+    <div className='card' id='c4'>
+    <img src={require("./Syringes.jpg")} alt="" height="300px" width="200px"/>
+       
+        <h2>Syringes</h2>
+        
+    </div>
+    <div className='card' id='c3'>
+        <img src="" alt="" />
+        <h2>Others</h2>
+        
+    </div>
+    
+    
+    </>
+    )
+}

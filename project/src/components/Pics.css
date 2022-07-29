@@ -1,0 +1,75 @@
+.style_pic{
+    padding-top: 10px;
+    background:rgb(32, 32, 32) ;
+    height: 600px;
+}
+
+.whatyoucandonate{
+    font-family:'Baloo Bhaijaan 2', cursive ;
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 20px;
+    font-size: 2.2rem;
+margin-left: 470px;
+width: 389px;
+height: 109px;
+background:-webkit-linear-gradient(pink,orange);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+border-radius: 30px;
+}
+
+
+.Pic {
+    width:250px;
+    height: 332px;
+    background: transparent 50%;
+    border-radius: 13px;
+    margin: 33px;
+    margin-top: 22px;
+    }
+    
+    .uppercont #c1{
+        height: 100px;
+        width:170px;
+        border-radius: 20px;
+    }
+    .uppercont #c2{
+        height: 100px;
+        width:170px;
+        border-radius: 20px;
+    }
+    .uppercont #c3{
+        height: 100px;
+        width:170px;
+        border-radius: 20px;
+    }
+    .uppercont #c4{
+        height: 100px;
+        width:170px;
+
+        border-radius: 20px;
+    }
+    
+    .image-cont img{
+    background:white;
+    width: 260px;
+    height: 260px;
+    transform: translate(38px,10px);
+    border-radius:20px ;
+    }
+    .lower-cont{
+        display:flex;
+        margin-top: 180px;
+        height: 300px;
+         margin-left:8px;
+        /* text-align: center; */
+        justify-content: center;
+        /* align-items: center; */
+        font-size:1.7rem;
+        background:-webkit-linear-gradient(pink,orange);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+       
+    }
+    
